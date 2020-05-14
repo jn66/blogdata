@@ -1,0 +1,32 @@
+{
+  "config": {
+    "branch": "master",
+    "cname": "web.jnblog.cn",
+    "domain": "https://jn66.github.io/blog",
+    "email": "jn90@163.com",
+    "password": "2EleLCwI5gIdecn7",
+    "platform": "github",
+    "port": 80,
+    "privateKey": "",
+    "remotePath": "/WEB",
+    "repository": "blog",
+    "server": "vhost379.cnameaddress.top",
+    "token": "28e73ddd4c8bac110842d24d5e93ff4bcd42b308",
+    "username": "jn66"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
